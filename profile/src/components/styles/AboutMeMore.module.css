@@ -1,0 +1,32 @@
+.container{
+    border: 1px solid silver;
+    border-radius: 10px;
+    margin: 200px 140px 0;
+    padding: 50px;
+    text-align: right;
+    font-weight: bold;    
+}
+.container:last-child p{
+    color: rgb(92, 92, 92);
+}
+@media(max-width:768px){
+    .container{
+        margin: 200px 60px 0;
+        padding: 35px;
+    }   
+    .container h1{
+        font-size: 20px;
+    }
+    .container h2{
+        font-size: 15px;
+    }
+    .container p{
+        font-size: 13px;
+    }
+}
+@media(max-width:481px){
+    .container{
+        margin: 150px 30px 0;
+        padding: 20px;
+    }
+}
