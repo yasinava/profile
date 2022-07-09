@@ -19,7 +19,7 @@ const Connect = () => {
                 </div>
             </div>
             <div className={styles.logoContainer}>
-                <a href='#'><img src={github} alt="logo"/></a>
+                <a href='https://github.com/yasinava/profile'><img src={github} alt="logo"/></a>
                 <a href='https://instagram.com/yasinava/?__a=1'><img src={instagram} alt="logo1"/></a>
                 <a href='#'><img src={linkedin} alt="logo3"/></a>
                 <a href='https://wa.me/989303711924'><img src={whatsapp} alt="logo2"/></a>
