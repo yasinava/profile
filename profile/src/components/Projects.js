@@ -9,36 +9,42 @@ const projectData = [
         title : "google",
         link : "https://www.google.com/?hl=FA",
         image : {logo},
+        githublink:"",
     },
     {
         id : 1,
         title : "google",
         link : "https://www.google.com/?hl=FA",
         image : {logo},
+        githublink:"",
     },
     {
         id : 2,
         title : "google",
         link : "https://www.google.com/?hl=FA",
         image : {logo},
+        githublink:"",
     },
     {
         id : 3,
         title : "google",
         link : "https://www.google.com/?hl=FA",
         image : {logo},
+        githublink:"",
     },
     {
         id : 4,
         title : "google",
         link : "https://www.google.com/?hl=FA",
         image : {logo},
+        githublink:"",
     },
     {
         id : 5,
         title : "google",
         link : "https://www.google.com/?hl=FA",
         image : {logo},
+        githublink:"",
     }
 
 ]
